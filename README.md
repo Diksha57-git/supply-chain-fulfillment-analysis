@@ -52,6 +52,7 @@ Power BI Data Modeling → Dashboard → Executive Report
 
 ## Dashboard Preview
 
+![Supply Chain Executive Dashboard](Dashboard/Screenshot%20%28213%29.png)
 
 ## Files Included
 
